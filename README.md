@@ -71,7 +71,7 @@ arahkan ke folder www/
 copy paste kode di bawah
 
 ```
-cd www/ && wget https://github.com/Navvatart/genpro/archive/refs/heads/genpro.zip && unzip genpro.zip && rm genpro.zip && mv genpro-genpro genpro && cd
+cd www/ && wget https://github.com/Navvatart/genpro/archive/refs/heads/genpro.zip && unzip genpro.zip && rm genpro.zip && mv genpro-genpro genpro && cd -
 
 ```
 tekan enter
