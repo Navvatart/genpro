@@ -1,4 +1,4 @@
 # genpro
 cara download GENPRO
 
-git clone https://github.com/datascienceid/instagram.git instagram
+git clone https://github.com/Navvatart/genpro.git genpro
