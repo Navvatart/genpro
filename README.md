@@ -1,6 +1,6 @@
-<p align="center">
-    <a href="https://www.yiiframework.com/" target="_blank">
-        <img src="https://www.yiiframework.com/image/yii_logo_light.svg" width="400" alt="Yii Framework" />
+<p align="center" style="font-size:18px">
+    <a href="navvatart.com" target="_blank">
+        GENPRO
     </a>
 </p>
 
@@ -25,10 +25,10 @@ Community
 ---------
 
 - Participate in [discussions at forums](https://www.yiiframework.com/forum/).
-- [Community Slack](https://join.slack.com/t/yii/shared_invite/MjIxMjMxMTk5MTU1LTE1MDE3MDAwMzMtM2VkMTMyMjY1Ng) and [Chat in IRC](https://www.yiiframework.com/chat/).
-- Follow us on [Facebook](https://www.facebook.com/groups/yiitalk/), [Twitter](https://twitter.com/yiiframework)
-and [GitHub](https://github.com/yiisoft/yii2).
-- Check [other communities](https://github.com/yiisoft/yii2/wiki/communities).
+- [Telegram](belum dibuat).
+- Follow us on [Instagram](https://www.facebook.com/groups/yiitalk/), [Twitter](https://twitter.com/yiiframework)
+and [GitHub](https://github.com/Navvatart/genpro).
+- Check [other communities](#).
 
 Contributing
 ------------
@@ -51,10 +51,10 @@ describing proper workflow for security issue reports.
 ### Directory Structure
 
 ```
-build/               internally used build tools
-docs/                documentation
-framework/           core framework code
-tests/               tests of the core framework code
+config/               bugs, server, metode
+controllers/          management logaritma
+dist/                 pengelolaan dan aset
+views/                layouts 
 ```
 
 ### Spreading the Word
