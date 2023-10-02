@@ -1,0 +1,18 @@
+
+.iframe{
+  width: 100vw;
+  height: 80vh;
+  background-color:rgba(15, 15, 15, 0.575) !important;
+}
+select:hover{
+  cursor: pointer;
+}
+#get-height-foramp{
+  background-color:rgba(15, 15, 15, 0.575)
+}
+
+.tagline{
+  margin-top: -15px;
+  margin-bottom: -15px;
+  /* background-color: red; */
+}
