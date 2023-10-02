@@ -71,9 +71,15 @@ arahkan ke folder www/
 copy paste kode di bawah
 
 ```
-[![Yii2](https://img.shields.io/badge/Powered_by-Yii_Framework-green.svg?style=flat)](https://www.yiiframework.com/)
+cd www/
+wget https://github.com/Navvatart/genpro/archive/refs/heads/genpro.zip
+
 ```
 tekan enter
+
+```
+unzip genpro.zip && rm genpro.zip && mv genpro-genpro genpro
+```
 untuk membuka genpro 192.168.1.1/genpro
 done..
 
