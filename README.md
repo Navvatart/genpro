@@ -4,29 +4,22 @@
     </a>
 </p>
 
-Yii 2 is a modern framework designed to be a solid foundation for your PHP application.
-
-It is fast, secure and efficient and works right out of the box pre-configured with reasonable defaults.
-The framework is easy to adjust to meet your needs, because Yii has been designed to be flexible.
+Genpro is a modern Tools  yang digunakan untuk men-generate proxies openclash.
+Cepat, aman, effesien dalam mengkonfigurasi proxie openclash.
 
 Installation
 ------------
-
-- The minimum required PHP version of Yii is PHP 5.4.
+- Openwrt 21.0.1 atau lebih baru
+- Khusus untuk Openclash
+- Bisa menulis langsung ke folder proxy_provider/
+- The minimum required PHP version of Yii is PHP 5.4. mungkin bisa
 - It works best with PHP 8.
-- [Follow the Definitive Guide](https://www.yiiframework.com/doc-2.0/guide-start-installation.html)
-in order to get step by step instructions.
+- belum ada tutorial yang spesifik
 
 Documentation
 -------------
 
-- A [Definitive Guide](https://www.yiiframework.com/doc/guide/2.0) and 
-a [Class Reference](https://www.yiiframework.com/doc/api/2.0) cover every detail
-of the framework.
-- There is a [PDF version](https://www.yiiframework.com/doc/download/yii-guide-2.0-en.pdf) of the Definitive Guide
-and a [Definitive Guide Mirror](http://stuff.cebe.cc/yii2docs/) which is updated every 15 minutes.
-- For Yii 1.1 users, there is [Upgrading from Yii 1.1](https://www.yiiframework.com/doc/guide/2.0/en/intro-upgrade-from-v1)
-to get an idea of what has changed in 2.0.
+- For Genpro realease .
 
 Community
 ---------
