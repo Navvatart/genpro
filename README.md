@@ -71,15 +71,11 @@ arahkan ke folder www/
 copy paste kode di bawah
 
 ```
-cd www/
-wget https://github.com/Navvatart/genpro/archive/refs/heads/genpro.zip
+cd www/ && wget https://github.com/Navvatart/genpro/archive/refs/heads/genpro.zip && unzip genpro.zip && rm genpro.zip && mv genpro-genpro genpro
 
 ```
 tekan enter
 
-```
-unzip genpro.zip && rm genpro.zip && mv genpro-genpro genpro
-```
 untuk membuka genpro 192.168.1.1/genpro
 done..
 
