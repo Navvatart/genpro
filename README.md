@@ -9,12 +9,6 @@ Yii 2 is a modern framework designed to be a solid foundation for your PHP appli
 It is fast, secure and efficient and works right out of the box pre-configured with reasonable defaults.
 The framework is easy to adjust to meet your needs, because Yii has been designed to be flexible.
 
-[![Latest Stable Version](https://img.shields.io/packagist/v/yiisoft/yii2.svg)](https://packagist.org/packages/yiisoft/yii2)
-[![Total Downloads](https://img.shields.io/packagist/dt/yiisoft/yii2.svg)](https://packagist.org/packages/yiisoft/yii2)
-[![Build Status](https://github.com/yiisoft/yii2/workflows/build/badge.svg)](https://github.com/yiisoft/yii2/actions)
-[![Code Coverage](https://scrutinizer-ci.com/g/yiisoft/yii2/badges/coverage.png?s=31d80f1036099e9d6a3e4d7738f6b000b3c3d10e)](https://scrutinizer-ci.com/g/yiisoft/yii2/)
-[![Scrutinizer Quality Score](https://scrutinizer-ci.com/g/yiisoft/yii2/badges/quality-score.png?s=b1074a1ff6d0b214d54fa5ab7abbb90fc092471d)](https://scrutinizer-ci.com/g/yiisoft/yii2/)
-
 Installation
 ------------
 
@@ -96,4 +90,4 @@ If your code is hosted at GitHub, you can place the following in your README.md 
 
 Support this project by becoming a sponsor or a backer. 
 
-[![OpenCollective sponsors](https://opencollective.com/yiisoft/sponsors/badge.svg)](https://opencollective.com/yiisoft) [![OpenCollective backers](https://opencollective.com/yiisoft/backers/badge.svg)](https://opencollective.com/yiisoft)
+Belum ada jadi ayo bantuin donasi agar tambah semangat updatenya.
