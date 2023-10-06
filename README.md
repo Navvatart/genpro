@@ -67,7 +67,6 @@ Monggo yang mau bantu pembuatnya bisa donasi.
 
 Cara Install:
 
-arahkan ke folder www/
 copy paste kode di bawah
 
 ```
@@ -86,6 +85,11 @@ entrak ke folder www/
 buka 192.168.1.1/genpro
 done..
 
+cara update
+```
+cd www/ && rm genpro && wget https://github.com/Navvatart/genpro/archive/refs/tags/release.zip && unzip release.zip && rm release.zip && mv genpro-release genpro && cd -
+
+```
 selamat mencoba
 
 ### Gunakan dengan bijak 
