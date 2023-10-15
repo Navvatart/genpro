@@ -24,11 +24,12 @@ Documentation
 Community
 ---------
 
-- Participate in [discussions at forums](https://www.yiiframework.com/forum/).
+- Participate in [discussions at forums](#).
 - [Telegram](belum dibuat).
 - Follow us on [Instagram](https://www.instagram.com/navvatart/), [Twitter](https://twitter.com/NavvatArt)
 and [GitHub](https://github.com/Navvatart/genpro).
 - Check [other communities](#).
+- Website [Navvatart](https://navvatart.com/web-application/).
 
 Contributing
 ------------
@@ -76,13 +77,17 @@ cd www/ && wget https://github.com/Navvatart/genpro/archive/refs/tags/release.zi
 tekan enter
 
 untuk membuka genpro 192.168.1.1/genpro
+
 done..
 
 install manual
 
 download githubnya genpro
+
 entrak ke folder www/
+
 buka 192.168.1.1/genpro
+
 done..
 
 cara update
