@@ -6,7 +6,7 @@
     <link href="dist/bootstrap-5.3.1/bootstrap.min.css" rel="stylesheet">
     <link href="dist/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet">
     <script src="dist/bootstrap-5.3.1/bootstrap.bundle.min.js"></script>
-    <script type="text/javascript" src="http://192.168.1.1/luci-static/argon/js/jquery.min.js?v=3.5.1"></script>
+    <script type="text/javascript" src="dist/js/jquery.min.js?v=3.5.1"></script>
 
     <script type="text/javascript" src="dist/js/global.js"></script>
     <!-- untuk mode -->
