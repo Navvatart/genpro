@@ -61,6 +61,8 @@ views/                layouts
 
 Monggo yang mau bantu pembuatnya bisa donasi.
 
+[![Donate](https://en.wikipedia.org/wiki/Bitcoin#/media/File:Bitcoin.svg)](https://ko-fi.com/patharanor)
+
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://ko-fi.com/patharanor)
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://ko-fi.com/patharanor)
