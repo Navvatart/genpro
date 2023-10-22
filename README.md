@@ -14,7 +14,7 @@ Installation
 - Bisa menulis langsung ke folder proxy_provider/
 - The minimum required PHP 5.4. mungkin bisa
 - It works best with PHP 8.
-- belum ada tutorial yang spesifik
+- belum ada tutorial yang tersedia
 
 Documentation
 -------------
