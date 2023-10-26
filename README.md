@@ -86,7 +86,7 @@ Installation steps:
 Copy and paste the code below.
 
 ```
-cd www/ && wget https://github.com/Navvatart/genpro/archive/refs/tags/v0.26.10.2023.zip && unzip release.zip && rm release.zip && mv genpro-release genpro && cd -
+cd www/ && wget https://github.com/Navvatart/genpro/archive/refs/tags/v0.26.10.2023.zip && unzip v0.26.10.2023.zip && rm v0.26.10.2023.zip && mv genpro-0.26.10.2023 genpro && cd -
 
 ```
 enter
@@ -107,7 +107,7 @@ done..
 
 how to  update
 ```
-cd www/ && rm -r genpro && wget https://github.com/Navvatart/genpro/archive/refs/tags/v0.26.10.2023.zip && unzip release.zip && rm release.zip && mv genpro-release genpro && cd -
+cd www/ && rm -r genpro && wget https://github.com/Navvatart/genpro/archive/refs/tags/v0.26.10.2023.zip && unzip v0.26.10.2023.zip && rm v0.26.10.2023.zip && mv genpro-0.26.10.2023 genpro && cd -
 
 ```
 Good luck trying!
