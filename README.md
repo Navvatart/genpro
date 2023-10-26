@@ -107,7 +107,7 @@ done..
 
 how to  update
 ```
-cd www/ && rm genpro && wget https://github.com/Navvatart/genpro/archive/refs/tags/release.zip && unzip release.zip && rm release.zip && mv genpro-release genpro && cd -
+cd www/ && rm -r genpro && wget https://github.com/Navvatart/genpro/archive/refs/tags/release.zip && unzip release.zip && rm release.zip && mv genpro-release genpro && cd -
 
 ```
 Good luck trying!
