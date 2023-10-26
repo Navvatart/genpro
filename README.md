@@ -110,6 +110,28 @@ how to  update
 cd www/ && rm -r genpro && wget https://github.com/Navvatart/genpro/archive/refs/tags/v0.26.10.2023.zip && unzip v0.26.10.2023.zip && rm v0.26.10.2023.zip && mv genpro-0.26.10.2023 genpro && cd -
 
 ```
+
+how to use 
+
+A. STEP 1
+
+1. Create group provider and proxy provider in openclash (for example: name bug test)
+2. apply.
+
+B. STEP 2
+
+1. go to servers 
+2. insert server you have.
+3. inser bugs you have.
+4. go home and select server
+5. insert port
+6. click bug name
+7. select file .yaml from openclash proxy provider
+8. click ke-OC
+9. go to Yard and refresh
+10. done... you have many bugs testing
+
+
 Good luck trying!
 
 ### Use it wisely.
