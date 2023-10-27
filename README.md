@@ -8,6 +8,22 @@
 
 Genpro is a modern tool used to generate Openclash proxies. It is fast, secure, and efficient in configuring Openclash proxies.
 
+<table style="width:100%">
+  <tr>
+    <td>
+         <img class="gambar"  src="https://navvatart.com/wp-content/uploads/2023/10/gp1.png" alt="Dana">
+    </td>
+    <td><img class="gambar"  src="https://navvatart.com/wp-content/uploads/2023/10/gp2.png" alt="Paypal"></td>
+  </tr>
+    <tr>
+    <td>
+         <img class="gambar"  src="https://navvatart.com/wp-content/uploads/2023/10/gp3.png" alt="BNB">
+    </td>
+    <td><img class="gambar"  src="https://navvatart.com/wp-content/uploads/2023/10/gp4.png" alt="Paypal"></td>
+  </tr>
+</table>
+
+
 Installation
 ------------
 - Openwrt 21.0.1 or newer
