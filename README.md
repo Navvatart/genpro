@@ -102,7 +102,7 @@ Installation steps:
 Copy and paste the code below.
 
 ```
-cd www/ && wget https://github.com/Navvatart/genpro/archive/refs/tags/v0.26.10.2023.zip && unzip v0.26.10.2023.zip && rm v0.26.10.2023.zip && mv genpro-0.26.10.2023 genpro && cd -
+cd www/ && wget https://github.com/Navvatart/genpro/archive/refs/tags/v0.01.01.2024.zip && unzip v0.26.10.2023.zip && rm v0.01.01.2024.zip && mv genpro-0.01.01.2024 genpro && cd -
 
 ```
 enter
