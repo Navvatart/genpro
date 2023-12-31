@@ -1,4 +1,4 @@
-<script src="dist/js/index.js"></script>
+<script src="/dist/js/index.js"></script>
 <?php 
 // var_dump($modelsbugs)
 ?>
