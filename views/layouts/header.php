@@ -5,12 +5,12 @@
     <link href="dist/bootstrap-5.3.1/bootstrap.min.css" rel="stylesheet">
     <link href="dist/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet">
     <script src="dist/bootstrap-5.3.1/bootstrap.bundle.min.js"></script>
-    <script type="text/javascript" src="http://192.168.1.1/tinyfm/rootfs/www/tinyfm/jquery/jquery-3.6.1.min.js">
+    <script type="text/javascript" src="/tinyfm/rootfs/www/tinyfm/jquery/jquery-3.6.1.min.js">
     </script>
 
-    <script type="text/javascript" src="dist/js/global.js"></script>
+    <script type="text/javascript" src="/genpro/dist/js/global.js"></script>
 
-    <link rel="stylesheet" href="dist/css/style.css">
+    <link rel="stylesheet" href="/genpro/dist/css/style.css">
 </head>
 
 <body>
