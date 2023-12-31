@@ -25,8 +25,8 @@
                     <select id="inputType" class="form-select server-type">
                         <option value="all" disabled selected>Type</option>
                         <option value="trojan">TROJAN</option>
-                        <!-- <option value="vmess">VMESS</option>
-                        <option value="Vless">VLESS</option> -->
+                        <option value="vmess">VMESS</option>
+                        <!-- <option value="Vless">VLESS</option> -->
                     </select>
                 </div>
                 <div class="col-md-3 mt-3">
