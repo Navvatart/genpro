@@ -102,7 +102,7 @@ Installation steps:
 Copy and paste the code below.
 
 ```
-cd www/ && wget https://github.com/Navvatart/genpro/archive/refs/tags/Beta-v01.05.01.2024.zip && unzip Beta-v01.05.01.2024.zip && rm Beta-v01.05.01.2024.zip && mv Beta-v01.05.01.2024.zip genpro && cd -
+cd www/ && wget https://github.com/Navvatart/genpro/archive/refs/tags/Beta-v01.05.01.2024.zip && unzip Beta-v01.05.01.2024.zip && rm Beta-v01.05.01.2024.zip && mv genpro-Beta-v01.05.01.2024 genpro && cd -
 
 ```
 enter
@@ -123,7 +123,7 @@ done..
 
 how to  update
 ```
-cd www/ && rm -r genpro && wget https://github.com/Navvatart/genpro/archive/refs/tags/Beta-v01.05.01.2024.zip && unzip Beta-v01.05.01.2024.zip && rm Beta-v01.05.01.2024.zip && mv Beta-v01.05.01.2024.zip genpro && cd -
+cd www/ && rm -r genpro && wget https://github.com/Navvatart/genpro/archive/refs/tags/Beta-v01.05.01.2024.zip && unzip Beta-v01.05.01.2024.zip && rm Beta-v01.05.01.2024.zip && mv genpro-Beta-v01.05.01.2024 genpro && cd -
 
 ```
 
