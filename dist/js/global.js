@@ -82,7 +82,7 @@ $.getJSON("https://api.github.com/repos/Navvatart/genpro/releases/latest").done(
     // console.log(cek);
       if (cek !== version ) {
         var text = `<a href="https://github.com/Navvatart/genpro" target="_blank"
-        class="btn btn-outline-warning">New Version available : Beta-`+version+` </a>&nbsp;&nbsp;`;
+        class="btn btn-outline-warning">New Version available : `+version+` </a>&nbsp;&nbsp;`;
         document.getElementById("version").innerHTML = text;
       }
     
