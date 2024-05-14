@@ -23,7 +23,7 @@
                 <div class="container-fluid">
                     <div>
                         <h2>GENPRO</h2>
-                        <input id="localversion" type="hidden" value="2023-10-26">
+                        <input id="localversion" type="hidden" value="Beta-v02.05.14.2024">
                         <span class="tagline">Generate Proxies Openclash OpenWRT</span>
                         <div class="tombol tagline" id="deskripsi"></div>
                     </div>
