@@ -6,9 +6,9 @@
                     <use xlink:href="#bootstrap"></use>
                 </svg>
             </a>
-            <input id="localversion" type="hidden" value="Beta-v02.05.14.2024">
+            <input id="localversion" type="hidden" value="Beta-v02.01.05.14.2024">
             <span class="text-muted">2023 Navvatart </span> <small class="taglines">&nbsp;&nbsp;
-                Beta-v02.05.14.2024</small>
+                Beta-v02.01.05.14.2024</small>
         </div>
 
         <ul class="nav col-md-4 justify-content-end list-unstyled d-flex">
