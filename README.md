@@ -102,8 +102,7 @@ Installation steps:
 Copy and paste the code below.
 
 ```
-cd www/ && wget https://github.com/Navvatart/genpro/archive/refs/tags/Beta-v01.05.01.2024.zip && unzip Beta-v01.05.01.2024.zip && rm Beta-v01.05.01.2024.zip && mv genpro-Beta-v01.05.01.2024 genpro && cd -
-
+cd www/ && wget https://github.com/Navvatart/genpro/archive/refs/tags/Beta-v02.01.05.14.2024.zip && unzip Beta-v02.01.05.14.2024.zip && rm Beta-v02.01.05.14.2024.zip && mv genpro-Beta-v02.01.05.14.2024 genpro && cd -
 ```
 enter
 
