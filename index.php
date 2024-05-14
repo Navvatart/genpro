@@ -1,12 +1,10 @@
 <?php include('views/layouts/header.php'); ?>
-<?php require('models/config.php'); ?>
+
 
 <html lang="en" data-bs-theme="dark">
 
-
-
-
 <div class="container">
+<?php require('models/config.php'); ?>
     <?php include('views/layouts/side.php'); ?>
 
     <div class="content">
@@ -57,7 +55,50 @@
             console.log(content);
             // alert(content);
         }
+        
         </script>
+        <script type="text/javascript">
+  function frameload(){
+   var host = this.location.host;
+    console.log('iframe loaded, body is: ', host);
+    if(host === "192.168.1.1"){
+    }else{
+    document.getElementById("yacdlocal").remove();
+    var div = document.getElementById("yacdonline");
+    div.innerHTML = '<iframe  style="width: 100%; height:72vh" src="https://yacd-'+host+'/ui/yacd/?hostname=https://yacd-'+host+'&secret=reyre#/proxies"></iframe>';
+    
+    document.getElementById("oclocal").remove();
+    
+    }
+  }
+  function ocload(){
+   var host = this.location.host;
+    console.log('iframe loaded, body is: ', host);
+    if(host === "192.168.1.1"){
+    }else{
+    document.getElementById("oclocal").remove();
+    var div = document.getElementById("oconline");
+    div.innerHTML = '<iframe  style="width: 100%; height:72vh" src="https://'+host+'/tinyfm/oceditor.php?p="></iframe>';
+    
+    document.getElementById("oclocal").remove();
+    
+    }
+  }
+  function terminalload(){
+   var host = this.location.host;
+    console.log('iframe loaded, body is: ', host);
+    if(host === "192.168.1.1"){
+    }else{
+    document.getElementById("terminallocal").remove();
+    var div = document.getElementById("terminalonline");
+    div.innerHTML = '<iframe  style="width: 100%; height:72vh" src="https://terminal-'+host+'"></iframe>';
+    
+    document.getElementById("oclocal").remove();
+    
+    }
+  }
+</script>
+
         <?php
 
      $url = $_SERVER['REQUEST_URI']; 
@@ -66,11 +107,14 @@
  if ($page == "home") {
     require('views/index.php'); 
     }elseif ($page == "yard"){
-        echo '<iframe  style="width: 100%; height:72vh" src="http://192.168.1.1:9090/ui/yacd/?hostname=192.168.1.1&port=9090&secret=reyre#/proxies"></iframe>';
+        echo '<iframe onload="frameload()" id="yacdlocal"  style="width: 100%; height:72vh" src="http://192.168.1.1:9090/ui/yacd/?hostname=192.168.1.1&port=9090&secret=reyre#/proxies"></iframe><div id="yacdonline"></div>';
+
+    
+        
     }elseif($page == "base64"){
         echo '<div class="container"><iframe style="width: 100%;height: 45vh;" src="/base64.php"></iframe></div>';
     }elseif($page == "clasheditor"){
-        echo '<iframe  style="width: 100%; height:72vh" src="http://192.168.1.1/tinyfm/oceditor.php?p="></iframe>';
+        echo '<iframe onload="ocload()" id="oclocal" style="width: 100%; height:72vh" src="http://192.168.1.1/tinyfm/oceditor.php?p="></iframe><div id="oconline"></div>';
     }elseif($page == "netdata"){
         echo '<div class="container"><iframe class="iframes" style="width: 100%; height:83vh" src="/netdata.html"></iframe></div>';
     }elseif($page == "speedtest"){
@@ -82,6 +126,12 @@
     }
     elseif($page == "insert-bugs"){
         require('views/create-bugs.php');
+    }
+     elseif($page == "cloudflared"){
+     require('views/cloudflared.php');
+    }
+     elseif($page == "terminal"){
+     echo '<iframe onload="terminalload()" id="terminallocal" style="width: 100%; height:72vh" src="http://192.168.1.1:7681"></iframe><div id="terminalonline"></div>';
     }
     ?>
     </div>
