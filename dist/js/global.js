@@ -80,7 +80,7 @@ $.getJSON("https://api.github.com/repos/Navvatart/genpro/releases/latest").done(
     // console.log(published_at);
     var cek  = document.getElementById("localversion").value;
     // console.log(cek);
-      if (cek !== published_at) {
+     if (cek !== version ) {
         var text = `<a href="https://github.com/Navvatart/genpro" target="_blank"
         class="btn btn-outline-warning">New Version available : `+version+` </a>&nbsp;&nbsp;`;
         document.getElementById("version").innerHTML = text;
