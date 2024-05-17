@@ -31,7 +31,7 @@
    </div> -->
    <div class="col-8"></div>
   <div class="container mt-3 col-4">
-  <h2>Button Styles</h2>
+  <h2>Button Configurasi/h2>
     <form method="post"> 
         <input type="submit" class="btn btn-success" name="start" value="start">
         <input type="submit" class="btn btn-success" name="status" value="Check Status">
