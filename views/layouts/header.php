@@ -57,6 +57,9 @@
                             <li class=" nav-item">
                                 <a href="?page=insert-server" class="btn btn-danger text-light me-2">Youtube</a>
                             </li>
+                            <li class=" nav-item">
+                                <a href="?action=logout" class="btn btn-danger text-light me-2">LogOut</a>
+                            </li>
 
                         </ul>
                     </div>
