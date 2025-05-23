@@ -8,7 +8,7 @@
     <?php include('views/layouts/side.php'); ?>
 
     <div class="content">
-
+        <!-- ok -->
         <!-- The Modal -->
         <div class="modal fade" id="myModal">
             <div class="modal-dialog modal-xl">
